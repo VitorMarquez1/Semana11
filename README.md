@@ -9,7 +9,7 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 - Nome: Vitor Oliveira Marquez
 - Matricula: 897352
 - Proposta de projeto escolhida: Diretório de Receitas
-- Breve descrição sobre seu projeto: Um site que reúne receitas culinárias organizadas por categoria (entradas, pratos principais, sobremesas). Os usuários podem visualizar ingredientes e modo de preparo, além de buscar receitas por nome ou por ingredientes específicos.
+- Breve descrição sobre seu projeto: Um site que reúne receitas culinárias organizadas por categoria (entradas, pratos principais, sobremesas). Os usuários podem visualizar ingredientes e modo de preparo, além de buscar receitas por nome ou ingredientes específicos.
 
 **Print do teste da API com visualização do JSON**
 
